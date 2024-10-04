@@ -2,8 +2,11 @@
 
 <div align=center>
   <img src=https://github.com/denv3rr/denv3rr/blob/main/Seperet_Slam_White.gif/>
-
   [Seperet](https://seperet.com)
+</div>
+
+<div>
+  <img src=https://github.com/denv3rr/github-readme-stats/>
 </div>
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=denv3rr&theme=ambient_gradient&layout=donut-vertical&langs_count=10)](https://github.com/denv3rr/github-readme-stats)
