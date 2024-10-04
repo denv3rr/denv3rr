@@ -1,5 +1,9 @@
 ## Welcome
 
+<div>
+  ![seperet.com][logo1](https://seperet.com)
+</div>
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=denv3rr&theme=ambient_gradient&layout=donut-vertical&langs_count=10)](https://github.com/denv3rr/github-readme-stats)
 [![Denver's GitHub stats](https://github-readme-stats.vercel.app/api?username=denv3rr&hide=stars,prs,issues,contribs&theme=ambient_gradient\&rank_icon=github)](https://github.com/denv3rr/github-readme-stats)
 
@@ -17,3 +21,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[logo1]: https://github.com/denv3rr/denv3rr/Seperet_Slam_White.gif
+[logo2]: https://github.com/denv3rr/denv3rr/Seperet_NightVision_Slam.gif
