@@ -1,6 +1,6 @@
 ## Welcome
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=denv3rr&ambient_gradient&layout=donut-vertical&langs_count=10)](https://github.com/denv3rr/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=denv3rr&theme=ambient_gradient&layout=donut-vertical&langs_count=10)](https://github.com/denv3rr/github-readme-stats)
 [![Denver's GitHub stats](https://github-readme-stats.vercel.app/api?username=denv3rr&hide=stars,prs,issues,contribs&theme=ambient_gradient\&rank_icon=github)](https://github.com/denv3rr/github-readme-stats)
 
 <!--
