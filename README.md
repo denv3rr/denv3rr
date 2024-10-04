@@ -1,9 +1,7 @@
 ## Welcome
 
-<div align=center>
-[![Denver's GitHub stats](https://github-readme-stats.vercel.app/api?username=denv3rr&hide=stars,prs,issues,contribs&theme=transparent)](https://github.com/denv3rr/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=denv3rr&theme=transparent)](https://github.com/denv3rr/github-readme-stats)
-</div>
+[![Denver's GitHub stats](https://github-readme-stats.vercel.app/api?username=denv3rr&hide=stars,prs,issues,contribs&theme=transparent)](https://github.com/denv3rr/github-readme-stats)
 
 <!--
 **denv3rr/denv3rr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
