@@ -1,7 +1,7 @@
 ## Welcome
 
 <div>
-  <img src=[logo1]>
+  ![seperet.com][logo1]
 </div>
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=denv3rr&theme=ambient_gradient&layout=donut-vertical&langs_count=10)](https://github.com/denv3rr/github-readme-stats)
