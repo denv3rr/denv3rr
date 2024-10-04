@@ -1,7 +1,7 @@
 ## Welcome
 
 <div>
-  <img src=https://github.com/denv3rr/denv3rr/Seperet_Slam_White.gif width="300" height="300">
+  <img src=https://github.com/denv3rr/denv3rr/Seperet_Slam_White.gif>
 </div>
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=denv3rr&theme=ambient_gradient&layout=donut-vertical&langs_count=10)](https://github.com/denv3rr/github-readme-stats)
