@@ -1,6 +1,5 @@
 <div align=center>
   <img src=https://github.com/denv3rr/denv3rr/blob/main/Seperet_Slam_White.gif/>
-  [Seperet](https://seperet.com)
 </div>
 
 #
