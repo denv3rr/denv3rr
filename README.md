@@ -1,4 +1,7 @@
-## Hi there 👋
+## Welcome
+
+
+[![Denver's GitHub stats](https://github-readme-stats.vercel.app/api?username=denv3rr)](https://github.com/denv3rr/github-readme-stats)
 
 <!--
 **denv3rr/denv3rr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
