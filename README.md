@@ -1,9 +1,11 @@
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+
 <div align=center>
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="220" height="50">
-  <img src=https://github.com/denv3rr/denv3rr/blob/main/Seperet_Slam_White.gif/ height="200">
+  <a href="https://seperet.com">
+    <img src=https://github.com/denv3rr/denv3rr/blob/main/Seperet_Slam_White.gif/>
+  </a>
 </div>
 
-#
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="50" height="50">
@@ -16,46 +18,52 @@
   </picture>
 </div>
 
-##
-<div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="100" height="100">
-</div>
+<br></br>
+<br></br>
+<br></br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+
+
 
 <div align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="200" height="200">
+  <h1>Stats</h1>
+</div>
+<br></br>
+
+<div align="center">
+  
 ## Languages
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=denv3rr&theme=ambient_gradient&layout=donut-vertical&langs_count=10)](https://github.com/denv3rr/github-readme-stats)
 
 ## Commits
 [![Denver's GitHub stats](https://github-readme-stats.vercel.app/api?username=denv3rr&hide=stars,prs,issues,contribs&theme=ambient_gradient\&rank_icon=github)](https://github.com/denv3rr/github-readme-stats)
+
+<br></br>
+<br></br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+
+## Collaborations Welcome!
+  <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="200" height="200">
 </div>
+<br></br>
+<br></br>
 
-## Collaborations
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+
+
 <div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="100" height="100">
-</div>
-
-##
-
-<div align="center">
-  <img src="https://images.squarespace-cdn.com/content/v1/612e9679ca3ada2f6398ebb3/c05732db-3886-411e-8985-1745b6bc638a/IMG_3139-ezgif.com-crop.gif?format=1500w" alt="seperet.com spinning logo gif" width="120" height="120"/>
-
-  [Seperet](https://seperet.com)
+  <a href="https://seperet.com">
+    <img src="https://images.squarespace-cdn.com/content/v1/612e9679ca3ada2f6398ebb3/c05732db-3886-411e-8985-1745b6bc638a/IMG_3139-ezgif.com-crop.gif?format=1500w" alt="seperet.com spinning logo gif" width="120" height="120"/>
+  </a>
   
 </div>
-<!--
-**denv3rr/denv3rr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 [logo1]: https://github.com/denv3rr/denv3rr/blob/main/Seperet_Slam_White.gif "Seperet.com"
 [logo2]: https://github.com/denv3rr/denv3rr/blob/main/Seperet_NightVision_Slam.gif "Seperet.com"
