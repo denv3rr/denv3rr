@@ -23,8 +23,10 @@
 <br></br>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-
-
+<br></br>
+<br></br>
+<br></br>
+<br></br>
 
 <div align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="200" height="200">
@@ -44,10 +46,16 @@
 <br></br>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+<br></br>
+<br></br>
+<br></br>
+<br></br>
 
 ## Collaborations Welcome!
   <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="200" height="200">
 </div>
+<br></br>
+<br></br>
 <br></br>
 <br></br>
 
