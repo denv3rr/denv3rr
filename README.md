@@ -18,6 +18,15 @@
 ## Commits
 [![Denver's GitHub stats](https://github-readme-stats.vercel.app/api?username=denv3rr&hide=stars,prs,issues,contribs&theme=ambient_gradient\&rank_icon=github)](https://github.com/denv3rr/github-readme-stats)
 
+
+##
+
+<div align="center">
+  <img src="https://images.squarespace-cdn.com/content/v1/612e9679ca3ada2f6398ebb3/c05732db-3886-411e-8985-1745b6bc638a/IMG_3139-ezgif.com-crop.gif?format=1500w" alt="seperet.com spinning logo gif" width="120" height="120"/>
+
+  [Seperet](https://seperet.com)
+  
+</div>
 <!--
 **denv3rr/denv3rr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
