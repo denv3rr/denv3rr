@@ -32,9 +32,14 @@
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="200" height="200">
   <h1>Stats</h1>
 </div>
-<br></br>
 
 <div align="center">
+ <div align="center">
+   <a href="http://seperet.com">
+     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=denv3rr&theme=github_dark"/>
+     <img src="https://github-readme-streak-stats.herokuapp.com?user=denv3rr&theme=ambient_gradient&hide_border=false&properties=background&border=%239611C5FF"/>
+   </a>
+ </div>
   
 ## Languages
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=denv3rr&theme=ambient_gradient&layout=donut-vertical&langs_count=10)](https://github.com/denv3rr/github-readme-stats)
