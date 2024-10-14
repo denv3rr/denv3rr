@@ -47,6 +47,9 @@
 ## Commits
 [![Denver's GitHub stats](https://github-readme-stats.vercel.app/api?username=denv3rr&hide=stars,prs,issues,contribs&theme=ambient_gradient\&rank_icon=github)](https://github.com/denv3rr/github-readme-stats)
 
+## Most Productive Times
+![Most Productive Times](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=denv3rr&theme=github_dark&utcOffset=-6)
+
 <br></br>
 <br></br>
 
