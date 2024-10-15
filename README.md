@@ -1,6 +1,6 @@
 [COMMENT]: <TITLE*****************************************>
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sixtyfour+Convergence&size=25&duration=3000&pause=500&color=F7F7F7&center=true&width=470&height=60&lines=Whatsup%3F;My+name+is+Denver.;Welcome+to+my+repo." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sixtyfour+Convergence&size=25&duration=3000&pause=500&color=F7F7F7&center=true&width=550&height=60&lines=Whatsup%3F;My+name+is+Denver.;Welcome+to+my+profile." alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
@@ -53,6 +53,9 @@
 </div>
 
 <div align="center">
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=denv3rr&column=-1&theme=darkhub&title=-Stars,-PullRequest,-Issues,-Reviews,-Followers)](https://github.com/ryo-ma/github-profile-trophy)
+  
  <div align="center">
    <a href="http://seperet.com">
      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=denv3rr&theme=github_dark"/>
