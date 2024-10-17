@@ -55,14 +55,19 @@
       <br>
       <br>
       <br>
-      
-  [![trophy](https://github-profile-trophy.vercel.app/?username=denv3rr&column=-1&theme=darkhub&title=-Stars,-PullRequest,-Issues,-Reviews,-Followers)](https://github.com/ryo-ma/github-profile-trophy)
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=denv3rr&theme=github_dark"/>
+
+  
+  <br>
   <br>
       <a href="http://seperet.com">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=denv3rr&theme=github_dark"/>
+
+  [![trophy](https://github-profile-trophy.vercel.app/?username=denv3rr&column=-1&theme=darkhub&title=-Stars,-PullRequest,-Issues,-Reviews,-Followers)](https://github.com/ryo-ma/github-profile-trophy)
+        <br>
         <br>
         <img src="https://github-readme-streak-stats.herokuapp.com?user=denv3rr&theme=ambient_gradient&hide_border=false&properties=background&border=white"/>
       </a>
+      <br>
       <br>
       
 ## Languages
