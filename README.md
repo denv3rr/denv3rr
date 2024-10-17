@@ -31,6 +31,15 @@
   </picture>
 </div>
 
+[COMMENT]: <TECH STACK BADGES*****************************************>
+<div align="center">
+  
+  ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+  ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
+  
+
+</div>
+
 <br></br>
 <br></br>
 <br></br>
