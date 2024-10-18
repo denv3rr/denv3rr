@@ -6,8 +6,7 @@
 <div align="center">
   
   ![GitHub branch check runs](https://img.shields.io/github/check-runs/denv3rr/denv3rr/main)
-  ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/denv3rr/denv3rr/.github%2Fworkflows%2Fyoutube-cards.yml?logoColor=CD201F&label=connections&link=https%3A%2F%2Fyoutube.com%2F%40seperet)
-  
+  ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/denv3rr/denv3rr/.github%2Fworkflows%2Fyoutube-cards.yml?logoColor=CD201F&label=connections&link=https%3A%2F%2Fyoutube.com%2F%40seperet)  
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
