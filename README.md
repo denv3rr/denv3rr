@@ -6,7 +6,8 @@
 <div align="center">
   
   ![GitHub branch check runs](https://img.shields.io/github/check-runs/denv3rr/denv3rr/main)
-  ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/denv3rr/denv3rr/.github%2Fworkflows%2Fyoutube-cards.yml?logoColor=CD201F&label=connections&link=https%3A%2F%2Fyoutube.com%2F%40seperet)
+  ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/denv3rr/denv3rr/.github%2Fworkflows%2Fyoutube-cards.yml?logoColor=CD201F&label=connections&link=https%3A%2F%2Fyoutube.com%2F%40seperet)  
+  ![Website](https://img.shields.io/website?url=https%3A%2F%2Fseperet.com)
   
 </div>
 
@@ -170,6 +171,7 @@
     
    [COMMENT]: <CHECK-WORKFLOWS*****************************************> 
   ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/denv3rr/denv3rr/.github%2Fworkflows%2Fyoutube-cards.yml?logoColor=CD201F&label=connections&link=https%3A%2F%2Fyoutube.com%2F%40seperet)
+  ![Website](https://img.shields.io/website?url=https%3A%2F%2Fseperet.com)
     
   </div>
   
@@ -223,6 +225,8 @@
   <a href="https://seperet.com">
     <img src="https://images.squarespace-cdn.com/content/v1/612e9679ca3ada2f6398ebb3/c05732db-3886-411e-8985-1745b6bc638a/IMG_3139-ezgif.com-crop.gif?format=1500w" alt="seperet.com spinning logo gif" width="120" height="120"/>
   </a>
+  
+  ![Website](https://img.shields.io/website?url=https%3A%2F%2Fseperet.com)
   
 </div>
 
