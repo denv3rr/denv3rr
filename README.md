@@ -175,8 +175,8 @@
     
   </div>
   
-  ![YouTube Channel Views](https://custom-icon-badges.demolab.com/youtube/channel/views/UCATB-IqmpAn-2XHu6lxTVwg?link=https%3A%2F%2Fyoutube.com%2F%40seperet)
-  ![YouTube Channel Subscribers](https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCATB-IqmpAn-2XHu6lxTVwg?link=https%3A%2F%2Fyoutube.com%2F%40seperet)
+  ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCATB-IqmpAn-2XHu6lxTVwg)
+  ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCATB-IqmpAn-2XHu6lxTVwg?link=https%3A%2F%2Fyoutube.com%2F%40seperet)
 
   ##
   
