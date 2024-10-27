@@ -183,12 +183,12 @@
   <br></br>
   
   <!-- BEGIN YOUTUBE-CARDS -->
+[![Pulling up to the worst neighborhood in town be like #shorts](https://ytcards.demolab.com/?id=67qowvWb1oM&title=Pulling+up+to+the+worst+neighborhood+in+town+be+like+%23shorts&lang=en&timestamp=1730061378&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Pulling up to the worst neighborhood in town be like #shorts")](https://www.youtube.com/watch?v=67qowvWb1oM)
 [![They had it coming tbh #shorts](https://ytcards.demolab.com/?id=pfrnMfACRN4&title=They+had+it+coming+tbh+%23shorts&lang=en&timestamp=1729746805&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "They had it coming tbh #shorts")](https://www.youtube.com/watch?v=pfrnMfACRN4)
 [![I live with the water people now #shorts #gaming #gamingmoments](https://ytcards.demolab.com/?id=PzIQFG_GWQc&title=I+live+with+the+water+people+now+%23shorts+%23gaming+%23gamingmoments&lang=en&timestamp=1729448450&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "I live with the water people now #shorts #gaming #gamingmoments")](https://www.youtube.com/watch?v=PzIQFG_GWQc)
 [![When One Squad Takes an Airfield](https://ytcards.demolab.com/?id=D6gqeHOinGE&title=When+One+Squad+Takes+an+Airfield&lang=en&timestamp=1728936449&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "When One Squad Takes an Airfield")](https://www.youtube.com/watch?v=D6gqeHOinGE)
 [![Mosquito eliminated #shorts #arma #mosquito #pestcontrol #tactical](https://ytcards.demolab.com/?id=4XVhXNf8gUg&title=Mosquito+eliminated+%23shorts+%23arma+%23mosquito+%23pestcontrol+%23tactical&lang=en&timestamp=1728525810&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Mosquito eliminated #shorts #arma #mosquito #pestcontrol #tactical")](https://www.youtube.com/watch?v=4XVhXNf8gUg)
 [![Weird ASMR #shorts](https://ytcards.demolab.com/?id=M2efyLbi8dM&title=Weird+ASMR+%23shorts&lang=en&timestamp=1727989420&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Weird ASMR #shorts")](https://www.youtube.com/watch?v=M2efyLbi8dM)
-[![Abrupt Ending #arma #shorts](https://ytcards.demolab.com/?id=Pa7AzOdNtMg&title=Abrupt+Ending+%23arma+%23shorts&lang=en&timestamp=1727902874&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Abrupt Ending #arma #shorts")](https://www.youtube.com/watch?v=Pa7AzOdNtMg)
 <!-- END YOUTUBE-CARDS -->
 <br></br>
 <br></br>
