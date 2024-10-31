@@ -1,7 +1,4 @@
 [COMMENT]: <TITLE*****************************************>
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sixtyfour+Convergence&size=25&duration=3000&pause=500&color=F7F7F7&center=true&width=550&height=60&lines=Whatsup%3F;My+name+is+Denver.;Welcome+to+my+profile." alt="Typing SVG" /></a>
-</div>
 
 <div align="center">
   
@@ -18,27 +15,6 @@
   <a href="https://seperet.com">
     <img src=https://github.com/denv3rr/denv3rr/blob/main/Seperet_Slam_White.gif/>
   </a>
-</div>
-
-[COMMENT]: <SNAKE*****************************************>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="50" height="50">
-  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="50" height="50">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="50" height="50">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  </picture>
-  <br></br>
-  <br></br>
-  <br></br>
-  <br></br>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-<br></br>
-<br></br>
-<br></br>
-<br></br>
 </div>
 
 [COMMENT]: <STATS*****************************************>
@@ -153,7 +129,30 @@
   ##
   ![SoundCloud](https://img.shields.io/badge/soundcloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)
   ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
-  ![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)  
+  ![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)
+
+  ##
+  [COMMENT]: <SNAKE*****************************************>
+  <div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="50" height="50">
+    <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="50" height="50">
+    <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="50" height="50">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+      <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    </picture>
+    <br></br>
+    <br></br>
+    <br></br>
+    <br></br>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+  <br></br>
+  <br></br>
+  <br></br>
+  <br></br>
+  </div>
+
   <br></br>
   <br></br>
   <br></br>
@@ -203,7 +202,6 @@
 [COMMENT]: <COLLABORATIONS*****************************************>
 ## Contact and Collaboration
   <img href="https://seperet.com/contact" src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="200" height="200">
-  <img href="https://seperet.com/contact" src="https://user-images.githubusercontent.com/74038190/238201078-6f564d9a-467a-4bba-ad3a-8527c8ab79ae.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjg4NTg3NDcsIm5iZiI6MTcyODg1ODQ0NywicGF0aCI6Ii83NDAzODE5MC8yMzgyMDEwNzgtNmY1NjRkOWEtNDY3YS00YmJhLWFkM2EtODUyN2M4YWI3OWFlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDEzVDIyMjcyN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM3YTBmYzQzNjExZjAxOTQyOTQwMjM1NDJkOTkzYTE0YmRiYzEwZDUyOGJkZjM0NjdkZGU4NDNkNmE4MDJhNDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.-vki_QYSoVy06D69Q2NoZEL7mWnWozz6WcnFLF-SJT4" width="200" height="200">
   <br></br>
   <a href="https://seperet.com/contact"><img src="https://readme-typing-svg.demolab.com?font=Sixtyfour+Convergence&size=25&duration=3000&pause=500&color=F7F7F7&center=true&width=520&height=60&lines=CLICK+HERE;TO+CONTACT" alt="Typing SVG" /></a>
 <br></br>
@@ -220,13 +218,14 @@
 <br></br>
 <br></br>
 
-[COMMENT]: <FOOTER*****************************************>
+[COMMENT]: <LOGO*****************************************>
 <div align="center">
   <a href="https://seperet.com">
-    <img src="https://images.squarespace-cdn.com/content/v1/612e9679ca3ada2f6398ebb3/c05732db-3886-411e-8985-1745b6bc638a/IMG_3139-ezgif.com-crop.gif?format=1500w" alt="seperet.com spinning logo gif" width="120" height="120"/>
+    <img src=https://github.com/denv3rr/denv3rr/blob/main/Seperet_NightVision_Slam.gif/>
   </a>
+</div>
   
-  ![Website](https://img.shields.io/website?url=https%3A%2F%2Fseperet.com)
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fseperet.com)
   
 </div>
 
