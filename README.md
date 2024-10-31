@@ -3,7 +3,7 @@
 <div align="center">
   
   ![GitHub branch check runs](https://img.shields.io/github/check-runs/denv3rr/denv3rr/main)
-  ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/denv3rr/denv3rr/.github%2Fworkflows%2Fyoutube-cards.yml?logoColor=CD201F&label=connections&link=https%3A%2F%2Fyoutube.com%2F%40seperet)  
+  ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/denv3rr/denv3rr/.github%2Fworkflows%2Fyoutube-cards.yml?logoColor=CD201F&label=connections&link=https%3A%2F%2Fyoutube.com%2F%40seperet)
   ![Website](https://img.shields.io/website?url=https%3A%2F%2Fseperet.com)
   
 </div>
@@ -16,6 +16,11 @@
     <img src=https://github.com/denv3rr/denv3rr/blob/main/Seperet_Slam_White.gif/>
   </a>
 </div>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+<br></br>
+<br></br>
+<br></br>
+<br></br>
 
 [COMMENT]: <STATS*****************************************>
 <div align="center">
@@ -146,11 +151,6 @@
     <br></br>
     <br></br>
     <br></br>
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-  <br></br>
-  <br></br>
-  <br></br>
-  <br></br>
   </div>
 
   <br></br>
