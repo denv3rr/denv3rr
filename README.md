@@ -102,12 +102,12 @@
   <br></br>
   
   <!-- BEGIN YOUTUBE-CARDS -->
+[![He didn’t see us 💔 #shorts](https://ytcards.demolab.com/?id=BWkmxAei1AI&title=He+didn%E2%80%99t+see+us+%F0%9F%92%94+%23shorts&lang=en&timestamp=1741640081&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "He didn’t see us 💔 #shorts")](https://www.youtube.com/watch?v=BWkmxAei1AI)
 [![LAW moment fr #arma](https://ytcards.demolab.com/?id=p7Us5kfoWRg&title=LAW+moment+fr+%23arma&lang=en&timestamp=1741233595&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "LAW moment fr #arma")](https://www.youtube.com/watch?v=p7Us5kfoWRg)
 [![Longest reload in history wtf #shorts](https://ytcards.demolab.com/?id=tWvK6G0zE7Y&title=Longest+reload+in+history+wtf+%23shorts&lang=en&timestamp=1738901075&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Longest reload in history wtf #shorts")](https://www.youtube.com/watch?v=tWvK6G0zE7Y)
 [![abandoned mosque moment](https://ytcards.demolab.com/?id=7CG5SMRVQIg&title=abandoned+mosque+moment&lang=en&timestamp=1738896648&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "abandoned mosque moment")](https://www.youtube.com/watch?v=7CG5SMRVQIg)
 [![At least one guy got out ok 😳](https://ytcards.demolab.com/?id=q6_3ousAcis&title=At+least+one+guy+got+out+ok+%F0%9F%98%B3&lang=en&timestamp=1738890035&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "At least one guy got out ok 😳")](https://www.youtube.com/watch?v=q6_3ousAcis)
 [![why did it take so long 💀 #gaming #arma](https://ytcards.demolab.com/?id=MCm_hJoBGfs&title=why+did+it+take+so+long+%F0%9F%92%80+%23gaming+%23arma&lang=en&timestamp=1738293346&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "why did it take so long 💀 #gaming #arma")](https://www.youtube.com/watch?v=MCm_hJoBGfs)
-[![ngl this was one of my crazier shots #shorts #conflict](https://ytcards.demolab.com/?id=kgHITVAMI5o&title=ngl+this+was+one+of+my+crazier+shots+%23shorts+%23conflict&lang=en&timestamp=1738008846&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "ngl this was one of my crazier shots #shorts #conflict")](https://www.youtube.com/watch?v=kgHITVAMI5o)
 <!-- END YOUTUBE-CARDS -->
 <br></br>
 <br></br>
