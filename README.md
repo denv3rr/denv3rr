@@ -59,23 +59,9 @@
 ### Most Productive Times
 ![Most Productive Times](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=denv3rr&theme=github_dark&utcOffset=-6)
 <br></br>
-
-### General Workflow
-  [COMMENT]: <SNAKE*****************************************>
-  <div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="50" height="50">
-    <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="50" height="50">
-    <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="50" height="50">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-      <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    </picture>
-    <br></br>
-    <br></br>
-    <br></br>
-    <br></br>
-  </div>
+<br></br>
+<br></br>
+<br></br>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 <br></br>
@@ -153,6 +139,15 @@
 <br></br>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+
+[COMMENT]: <SNAKE*****************************************>
+  <div align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+      <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    </picture>
+  </div>
 
 [COMMENT]: <LOGOS*****************************************>
 [logo1]: https://github.com/denv3rr/denv3rr/blob/main/Seperet_Slam_White.gif "Seperet.com"
