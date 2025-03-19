@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![GitHub branch check runs](https://img.shields.io/github/check-runs/denv3rr/denv3rr/main)
+  <!-- ![GitHub branch check runs](https://img.shields.io/github/check-runs/denv3rr/denv3rr/main) -->
   ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/denv3rr/denv3rr/.github%2Fworkflows%2Fyoutube-cards.yml?logoColor=CD201F&label=connections&link=https%3A%2F%2Fyoutube.com%2F%40seperet)
   ![Website](https://img.shields.io/website?url=https%3A%2F%2Fseperet.com)
   
@@ -81,20 +81,18 @@
 
   <div align="center">
     
-   [COMMENT]: <CHECK-WORKFLOWS*****************************************> 
+   [COMMENT]: <CHECK-WORKFLOWS*****************************************>
+   <!--
   ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/denv3rr/denv3rr/.github%2Fworkflows%2Fyoutube-cards.yml?logoColor=CD201F&label=connections&link=https%3A%2F%2Fyoutube.com%2F%40seperet)
   ![Website](https://img.shields.io/website?url=https%3A%2F%2Fseperet.com)
+  -->
     
   </div>
-
-    
+  
   ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCATB-IqmpAn-2XHu6lxTVwg)
   ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCATB-IqmpAn-2XHu6lxTVwg?link=https%3A%2F%2Fyoutube.com%2F%40seperet)
 
 </a>
-
-  
-  <br></br>
   
 <!-- BEGIN YOUTUBE-CARDS -->
 
