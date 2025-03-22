@@ -1,11 +1,13 @@
 [COMMENT]: <TITLE*****************************************>
 
 <div align="center">
-  
-  <!-- ![GitHub branch check runs](https://img.shields.io/github/check-runs/denv3rr/denv3rr/main) -->
+  <a href="https://seperet.com">
+    
   ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/denv3rr/denv3rr/.github%2Fworkflows%2Fyoutube-cards.yml?logoColor=CD201F&label=connections&link=https%3A%2F%2Fyoutube.com%2F%40seperet)
-  ![Website](https://img.shields.io/website?url=https%3A%2F%2Fseperet.com&label=seperet.com)
   
+  ![Website](https://img.shields.io/website?url=https%3A%2F%2Fseperet.com&label=seperet.com)
+    
+  </a>  
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
@@ -76,7 +78,7 @@
 
 [COMMENT]: <YOUTUBE*****************************************>
 <div align="center">
-  <a href="https://youtube.com/@seperet">
+<a href="https://youtube.com/@seperet">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzdqdmlpbzIzdDM1Zm8wNnR5MW8wODVwY29tMnBjd2ltb292eXRkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dyLmcrc0wk4dUCxp0K/giphy.webp" width="200" height="200">
 
   <div align="center">
@@ -116,8 +118,12 @@
     <img src=https://github.com/denv3rr/denv3rr/blob/main/Seperet_NightVision_Slam.gif/>
   </a>
 </div>
+
+<a href="https://seperet.com">
   
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fseperet.com&label=seperet.com)
+  ![Website](https://img.shields.io/website?url=https%3A%2F%2Fseperet.com&label=seperet.com)
+
+<a/>
   
 </div>
 
