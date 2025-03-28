@@ -42,22 +42,20 @@
 <br></br>
 
 <div align="center">
-
-### Overall
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=denv3rr&column=-1&theme=darkhub&title=-Stars,-PullRequest,-Issues,-Reviews,-Followers)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=denv3rr&column=-1&theme=darkhub&title=-Stars,-PullRequest,-Issues,-Reviews,-Followers)](https://github.com/ryo-ma/github-profile-trophy)
   
- <div align="center">
-   <a>
-     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=denv3rr&theme=github_dark"/>
-     <br></br>
-     <img src="https://github-readme-streak-stats.herokuapp.com?user=denv3rr&theme=ambient_gradient&hide_border=false&properties=background&border=white"/>
-     <br></br>
-   </a>
- </div>
+<div align="center">
+  <a>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=denv3rr&theme=github_dark"/>
+    <br></br>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=denv3rr&theme=ambient_gradient&hide_border=false&properties=background&border=white"/>
+    <br></br>
+  </a>
+</div>
   
 ### Languages
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=denv3rr&theme=ambient_gradient&layout=donut-vertical&langs_count=10)](https://github.com/denv3rr/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=denv3rr&theme=ambient_gradient&layout=donut&langs_count=12)](https://github.com/denv3rr/github-readme-stats)
 <br></br>
 
 ### Commits
