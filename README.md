@@ -3,7 +3,7 @@
 <div align="center">
   <a href="https://seperet.com">
     
-  [![trophy](https://github-profile-trophy.vercel.app/?username=denv3rr&column=-1&no-frame=true&theme=darkhub&title=-Stars,-PullRequest,-Issues,-Reviews)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=denv3rr&column=-1&no-frame=true&no-bg=true&theme=darkhub&title=-Stars,-PullRequest,-Issues,-Reviews)](https://github.com/ryo-ma/github-profile-trophy)
     
   ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/denv3rr/denv3rr/.github%2Fworkflows%2Fyoutube-cards.yml?logoColor=CD201F&label=connections&link=https%3A%2F%2Fyoutube.com%2F%40seperet)
   </a>
