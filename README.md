@@ -3,10 +3,12 @@
 <div align="center">
   <a href="https://seperet.com">
     
-  ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/denv3rr/denv3rr/.github%2Fworkflows%2Fyoutube-cards.yml?logoColor=CD201F&label=connections&link=https%3A%2F%2Fyoutube.com%2F%40seperet)
-  
-  ![Website](https://img.shields.io/website?url=https%3A%2F%2Fseperet.com&label=seperet.com)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=denv3rr&column=-1&no-frame=true&theme=darkhub&title=-Stars,-PullRequest,-Issues,-Reviews,-Followers)](https://github.com/ryo-ma/github-profile-trophy)
     
+  ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/denv3rr/denv3rr/.github%2Fworkflows%2Fyoutube-cards.yml?logoColor=CD201F&label=connections&link=https%3A%2F%2Fyoutube.com%2F%40seperet)
+  </a>
+  <a href="https://seperet.com">
+  ![Website](https://img.shields.io/website?url=https%3A%2F%2Fseperet.com&label=seperet.com)    
   </a>  
 </div>
 
@@ -20,11 +22,6 @@
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-
-<div align="center">
-<a href="https://seperet.com/contact"><img src="https://readme-typing-svg.demolab.com?font=Sixtyfour+Convergence&size=25&duration=3000&color=F7F7F7&center=true&width=520&height=60&lines=CLICK+HERE+TO+CONTACT" alt="Link to contact form" /></a>
-</div>
-
 <br></br>
 <br></br>
 <br></br>
@@ -35,35 +32,23 @@
 
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="200" height="200">
 
-  ## GitHub Stats
+  ## Stats
 </div>
 
 <br></br>
 <br></br>
 
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=denv3rr&column=-1&theme=darkhub&title=-Stars,-PullRequest,-Issues,-Reviews,-Followers)](https://github.com/ryo-ma/github-profile-trophy)
-  
+<div align="center">  
 <div align="center">
   <a>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=denv3rr&theme=github_dark"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=denv3rr&theme=transparent"/>
     <br></br>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=denv3rr&theme=ambient_gradient&hide_border=false&properties=background&border=white"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=denv3rr&theme=transparent&hide_border=true&properties=background&border=white"/>
     <br></br>
   </a>
 </div>
   
-### Languages
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=denv3rr&theme=ambient_gradient&layout=donut&langs_count=12)](https://github.com/denv3rr/github-readme-stats)
-<br></br>
-
-### Commits
-[![Denver's GitHub stats](https://github-readme-stats.vercel.app/api?username=denv3rr&hide=stars,prs,issues,contribs&theme=ambient_gradient\&rank_icon=github)](https://github.com/denv3rr/github-readme-stats)
-<br></br>
-
-### Most Productive Times
-![Most Productive Times](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=denv3rr&theme=github_dark&utcOffset=-6)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=denv3rr&hide_border=true&theme=transparent&layout=donut&langs_count=12)](https://github.com/denv3rr/github-readme-stats)
 <br></br>
 <br></br>
 <br></br>
@@ -89,8 +74,9 @@
   </div>
   
   ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCATB-IqmpAn-2XHu6lxTVwg)
+  <a href="https://youtube.com/@seperet">
   ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCATB-IqmpAn-2XHu6lxTVwg?link=https%3A%2F%2Fyoutube.com%2F%40seperet)
-
+  </a>
 </a>
   
 <!-- BEGIN YOUTUBE-CARDS -->
@@ -133,6 +119,9 @@
       <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
     </picture>
   </div>
+<div align="center">
+<a href="https://seperet.com/contact"><img src="https://readme-typing-svg.demolab.com?font=Sixtyfour+Convergence&size=25&duration=3000&color=F7F7F7&center=true&width=520&height=60&lines=CLICK+HERE+TO+CONTACT" alt="Link to contact form" /></a>
+</div>
 
 [COMMENT]: <LOGOS*****************************************>
 [logo1]: https://github.com/denv3rr/denv3rr/blob/main/Seperet_Slam_White.gif "Seperet.com"
