@@ -17,7 +17,7 @@
 [COMMENT]: <LOGO*****************************************>
 <div align="center">
   <a href="https://seperet.com">
-    <img src=https://github.com/denv3rr/denv3rr/blob/main/Seperet_Slam_White.gif/>
+    <img src=https://github.com/denv3rr/denv3rr/blob/main/IMG_4225.gif/>    
   </a>
 </div>
 <br></br>
