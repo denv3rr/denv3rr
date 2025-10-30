@@ -19,7 +19,6 @@
     <img src=https://github.com/denv3rr/denv3rr/blob/main/IMG_4225.gif/>    
   </a>
 </div>
-<br></br>
 
 [COMMENT]: <STATS*****************************************>
 <div align="center">
