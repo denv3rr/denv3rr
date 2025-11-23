@@ -1,34 +1,25 @@
-[COMMENT]: <TITLE*****************************************>
-
 <div align="center">
   <a href="https://seperet.com">
 
-[COMMENTED OUT UNTIL VERCEL APP IS WORKING]:
-  [![trophy](https://github-profile-trophy.vercel.app/?username=denv3rr&column=-1&no-frame=true&no-bg=true&theme=darkhub&title=-Stars,-PullRequest,-Issues,-Reviews)](https://github.com/ryo-ma/github-profile-trophy)
-    
+<!-- CHECKS ------------------------------------------------------------------>
   ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/denv3rr/denv3rr/.github%2Fworkflows%2Fyoutube-cards.yml?logoColor=CD201F&label=connections&link=https%3A%2F%2Fyoutube.com%2F%40seperet)
   </a>
   <a href="https://seperet.com">
   ![Website](https://img.shields.io/website?url=https%3A%2F%2Fseperet.com&label=seperet.com)    
   </a>  
+
+<!-- TROPHIES ---------------------------------------------------------------->
+  [![trophy](https://github-profile-trophy.vercel.app/?username=denv3rr&column=-1&no-frame=true&no-bg=true&theme=darkhub&title=-Stars,-PullRequest,-Issues,-Reviews)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
-[COMMENT]: <LOGO*****************************************>
+<!-- LOGO -------------------------------------------------------------------->
 <div align="center">
   <a href="https://seperet.com">
     <img src=https://github.com/denv3rr/denv3rr/blob/main/IMG_4225.gif/>    
   </a>
 </div>
 
-[COMMENT]: <STATS*****************************************>
-<div align="center">
-
----
-</div>
-
-<br></br>
-<br></br>
-
+<!-- STATS ------------------------------------------------------------------->
 <div align="center">  
 <div align="center">
   <a>
@@ -45,11 +36,9 @@
 <br></br>
 <br></br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-
 ---
 
-[COMMENT]: <YOUTUBE*****************************************>
+<!-- YOUTUBE ----------------------------------------------------------------->
 <div align="center">
 <a href="https://youtube.com/@seperet">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzdqdmlpbzIzdDM1Zm8wNnR5MW8wODVwY29tMnBjd2ltb292eXRkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dyLmcrc0wk4dUCxp0K/giphy.webp" width="200" height="200">
@@ -80,10 +69,13 @@
 <br></br>
 <br></br>
 <br></br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
   
 </div>
+
+---
+
+<!-- FOOTER ------------------------------------------------------------------>
+<img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
 [COMMENT]: <SNAKE*****************************************>
   <div align="center">
@@ -93,10 +85,8 @@
       <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
     </picture>
   </div>
+  
 <div align="center">
-<a href="https://seperet.com/contact"><img src="https://readme-typing-svg.demolab.com?font=Sixtyfour+Convergence&size=25&duration=3000&color=F7F7F7&center=true&width=520&height=60&lines=CLICK+HERE+TO+CONTACT" alt="Link to contact form" /></a>
+  <a href="https://seperet.com/contact"><img src="https://readme-typing-svg.demolab.com?font=Sixtyfour+Convergence&size=25&duration=3000&color=F7F7F7&center=true&width=520&height=60&lines=CLICK+HERE+TO+CONTACT" alt="Link to contact form" />
+  </a>
 </div>
-
-[COMMENT]: <LOGOS*****************************************>
-[logo1]: https://github.com/denv3rr/denv3rr/blob/main/Seperet_Slam_White.gif "Seperet.com"
-[logo2]: https://github.com/denv3rr/denv3rr/blob/main/Seperet_NightVision_Slam.gif "Seperet.com"
