@@ -28,9 +28,10 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=denv3rr&theme=transparent&hide_border=true&properties=background&border=white"/>
   </a>
 </div>
-  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=denv3rr&hide_border=true&theme=transparent&layout=donut&langs_count=12)](https://github.com/denv3rr/github-readme-stats)
 
+<!--
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=denv3rr&hide_border=true&theme=transparent&layout=donut&langs_count=12)](https://github.com/denv3rr/github-readme-stats)
+-->
 <br></br>
 <br></br>
 <br></br>
