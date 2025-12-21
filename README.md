@@ -17,21 +17,24 @@
 </div>
 
 <!-- TROPHIES ---------------------------------------------------------------->
+<!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=denv3rr&column=-1&no-frame=true&no-bg=true&theme=darkhub&title=-Stars,-PullRequest,-Issues,-Reviews)](https://github.com/ryo-ma/github-profile-trophy)
+-->
+
 </div>
 
 <!-- STATS ------------------------------------------------------------------->
-<div align="center">  
+<div align="center">
 <div align="center">
   <a>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=denv3rr&theme=transparent"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=denv3rr&theme=transparent&hide_border=true&properties=background&border=white"/>
+    <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=denv3rr&theme=transparent&hide_border=true&properties=background&border=white"/> -->
   </a>
 </div>
 
-<!--
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=denv3rr&hide_border=true&theme=transparent&layout=donut&langs_count=12)](https://github.com/denv3rr/github-readme-stats)
--->
+
 <br></br>
 <br></br>
 <br></br>
