@@ -38,7 +38,27 @@
 <br></br>
 <br></br>
 <br></br>
-<br></br>
+
+<!-- PINNED REPOS ------------------------------------------------------------>
+
+<p align="center">
+  
+  <a href="https://github.com/denv3rr/clear">
+    <img src="https://opengraph.githubassets.com/1/denv3rr/clear" width="300"/>
+  </a>
+  
+  <a href="https://github.com/denv3rr/AirTrace">
+    <img src="https://opengraph.githubassets.com/1/denv3rr/AirTrace" width="300"/>
+  </a>
+  
+  <a href="https://github.com/denv3rr/denv3rr.github.io">
+    <img src="https://opengraph.githubassets.com/1/denv3rr/denv3rr.github.io" width="300"/>
+  </a>
+  
+  <a href="https://github.com/denv3rr/network-explorer">
+    <img src="https://opengraph.githubassets.com/1/denv3rr/network-explorer" width="300"/>
+  </a>
+</p>
 
 ---
 
@@ -70,6 +90,7 @@
 [![reject modernity. return to bush. #armareforger #arma #conflict #fps #christmas #explosion #heli](https://ytcards.demolab.com/?id=xcnaetuWktk&title=reject+modernity.+return+to+bush.+%23armareforger+%23arma+%23conflict+%23fps+%23christmas+%23explosion+%23heli&lang=en&timestamp=1766720297&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "reject modernity. return to bush. #armareforger #arma #conflict #fps #christmas #explosion #heli")](https://www.youtube.com/shorts/xcnaetuWktk)
 [![The Ghost of Conflicts Past #armareforger #gaming #fps #arma #mods #funnymoments #conflict #holiday](https://ytcards.demolab.com/?id=yyNhZvh6LvI&title=The+Ghost+of+Conflicts+Past+%23armareforger+%23gaming+%23fps+%23arma+%23mods+%23funnymoments+%23conflict+%23holiday&lang=en&timestamp=1766711763&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "The Ghost of Conflicts Past #armareforger #gaming #fps #arma #mods #funnymoments #conflict #holiday")](https://www.youtube.com/shorts/yyNhZvh6LvI)
 <!-- END YOUTUBE-CARDS -->
+
 <br></br>
 <br></br>
 <br></br>
