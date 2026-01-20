@@ -110,7 +110,7 @@
   </div>
     
   <div align="center">
-    <a>
+    <a href="https://seperet.com/contact">
       <img src="https://readme-typing-svg.demolab.com?font=Sixtyfour+Convergence&size=25&duration=3000&color=F7F7F7&center=true&width=520&height=60&lines=CLICK+HERE+TO+CONTACT" alt="Link to contact form" />
     </a>
   </div>
