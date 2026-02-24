@@ -12,7 +12,7 @@
 <!-- LOGO -------------------------------------------------------------------->
 <div align="center">
   <a href="https://seperet.com">
-    <img src=https://github.com/denv3rr/denv3rr/blob/main/IMG_4225.gif/>    
+    <img width="250" src=https://github.com/denv3rr/denv3rr/blob/main/IMG_4225.gif/>    
   </a>
 </div>
 
@@ -37,12 +37,20 @@
 -->
 
 <br></br>
-<br></br>
-<br></br>
 
 <!-- PINNED REPOS ------------------------------------------------------------>
 
 <p align="center">
+
+  <a href="https://denv3rr.github.io/lobby/">
+    <img src="https://opengraph.githubassets.com/1/denv3rr/lobby" width="300"/>
+  </a>
+
+  <br>
+
+  <a href="https://github.com/denv3rr/denv3rr.github.io">
+    <img src="https://opengraph.githubassets.com/1/denv3rr/denv3rr.github.io" width="300"/>
+  </a>
   
   <a href="https://github.com/denv3rr/clear">
     <img src="https://opengraph.githubassets.com/1/denv3rr/clear" width="300"/>
@@ -50,10 +58,6 @@
   
   <a href="https://github.com/denv3rr/AirTrace">
     <img src="https://opengraph.githubassets.com/1/denv3rr/AirTrace" width="300"/>
-  </a>
-  
-  <a href="https://github.com/denv3rr/denv3rr.github.io">
-    <img src="https://opengraph.githubassets.com/1/denv3rr/denv3rr.github.io" width="300"/>
   </a>
   
   <a href="https://github.com/denv3rr/network-explorer">
