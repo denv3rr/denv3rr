@@ -88,7 +88,12 @@
 </a>
   
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Not sure how he didnt get me #arma #armareforger #gaming #thisisarma #armaplatform](https://ytcards.demolab.com/?id=-z5s4FqJ3jk&title=Not+sure+how+he+didnt+get+me+%23arma+%23armareforger+%23gaming+%23thisisarma+%23armaplatform&lang=en&timestamp=1772174706&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Not sure how he didnt get me #arma #armareforger #gaming #thisisarma #armaplatform")](https://www.youtube.com/shorts/-z5s4FqJ3jk)
+[![Off roading #armareforger #fps #funnymoments #fails #gamingclips](https://ytcards.demolab.com/?id=bH8Rattmpo4&title=Off+roading+%23armareforger+%23fps+%23funnymoments+%23fails+%23gamingclips&lang=en&timestamp=1772067798&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Off roading #armareforger #fps #funnymoments #fails #gamingclips")](https://www.youtube.com/shorts/bH8Rattmpo4)
+[![I was just trying to sit here](https://ytcards.demolab.com/?id=oz3EW41SArE&title=I+was+just+trying+to+sit+here&lang=en&timestamp=1771735589&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "I was just trying to sit here")](https://www.youtube.com/watch?v=oz3EW41SArE)
+[![Looney toons character sneaks into our base #armareforger #conflict #fps #funnymoments](https://ytcards.demolab.com/?id=9vNAGUfoEcY&title=Looney+toons+character+sneaks+into+our+base+%23armareforger+%23conflict+%23fps+%23funnymoments&lang=en&timestamp=1771623750&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Looney toons character sneaks into our base #armareforger #conflict #fps #funnymoments")](https://www.youtube.com/shorts/9vNAGUfoEcY)
+[![Letting Random Online Strangers Lead Me To My Death](https://ytcards.demolab.com/?id=y-WRjMd8xgE&title=Letting+Random+Online+Strangers+Lead+Me+To+My+Death&lang=en&timestamp=1771577441&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Letting Random Online Strangers Lead Me To My Death")](https://www.youtube.com/watch?v=y-WRjMd8xgE)
+[![“Hes right behind me isnt he?” moment #armareforger #fps #conflict](https://ytcards.demolab.com/?id=_Jk27O6oTVI&title=%E2%80%9CHes+right+behind+me+isnt+he%3F%E2%80%9D+moment+%23armareforger+%23fps+%23conflict&lang=en&timestamp=1771450867&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "“Hes right behind me isnt he?” moment #armareforger #fps #conflict")](https://www.youtube.com/shorts/_Jk27O6oTVI)
 <!-- END YOUTUBE-CARDS -->
 
 <br></br>
