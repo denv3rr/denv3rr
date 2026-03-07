@@ -88,7 +88,12 @@
 </a>
   
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Gunner POV is pretty dope in Reforger #arma #fps #conflict](https://ytcards.demolab.com/?id=T94EbTQzHX4&title=Gunner+POV+is+pretty+dope+in+Reforger+%23arma+%23fps+%23conflict&lang=en&timestamp=1772752597&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Gunner POV is pretty dope in Reforger #arma #fps #conflict")](https://www.youtube.com/shorts/T94EbTQzHX4)
+[![Fireworks experiment nearly claims a man #arma #conflict #fps](https://ytcards.demolab.com/?id=q7i6y1paLu8&title=Fireworks+experiment+nearly+claims+a+man+%23arma+%23conflict+%23fps&lang=en&timestamp=1772682164&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Fireworks experiment nearly claims a man #arma #conflict #fps")](https://www.youtube.com/shorts/q7i6y1paLu8)
+[![ngl almost ran out there 😂 #arma #gaming](https://ytcards.demolab.com/?id=NAnA6Kxyv3o&title=ngl+almost+ran+out+there+%F0%9F%98%82+%23arma+%23gaming&lang=en&timestamp=1772678989&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "ngl almost ran out there 😂 #arma #gaming")](https://www.youtube.com/shorts/NAnA6Kxyv3o)
+[![He actually did see it coming #cannon](https://ytcards.demolab.com/?id=BONauiCvkvg&title=He+actually+did+see+it+coming+%23cannon&lang=en&timestamp=1772596178&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "He actually did see it coming #cannon")](https://www.youtube.com/shorts/BONauiCvkvg)
+[![Pt. 2 of that last clip lol #armareforger #armor #conflict #fps #nvg](https://ytcards.demolab.com/?id=FXgG7oMjs40&title=Pt.+2+of+that+last+clip+lol+%23armareforger+%23armor+%23conflict+%23fps+%23nvg&lang=en&timestamp=1772587574&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Pt. 2 of that last clip lol #armareforger #armor #conflict #fps #nvg")](https://www.youtube.com/shorts/FXgG7oMjs40)
+[![Click clackin my way to victory brothers #armareforger #getgood #gaming #fps #arma #conflict #heli](https://ytcards.demolab.com/?id=AZfN8_ufN2o&title=Click+clackin+my+way+to+victory+brothers+%23armareforger+%23getgood+%23gaming+%23fps+%23arma+%23conflict+%23heli&lang=en&timestamp=1772576572&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Click clackin my way to victory brothers #armareforger #getgood #gaming #fps #arma #conflict #heli")](https://www.youtube.com/shorts/AZfN8_ufN2o)
 <!-- END YOUTUBE-CARDS -->
 
 <br></br>
