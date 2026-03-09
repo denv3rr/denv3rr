@@ -88,12 +88,7 @@
 </a>
   
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Surrounded pilots refuse to give up #arma #funnymoments #gamingclips #armareforger #fps #thisisarma](https://ytcards.demolab.com/?id=RbnqMO2_bms&title=Surrounded+pilots+refuse+to+give+up+%23arma+%23funnymoments+%23gamingclips+%23armareforger+%23fps+%23thisisarma&lang=en&timestamp=1772919650&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Surrounded pilots refuse to give up #arma #funnymoments #gamingclips #armareforger #fps #thisisarma")](https://www.youtube.com/shorts/RbnqMO2_bms)
-[![We ran right into this guy… #armareforger #arma #conflict #gaming](https://ytcards.demolab.com/?id=IUXclVHekm0&title=We+ran+right+into+this+guy%E2%80%A6+%23armareforger+%23arma+%23conflict+%23gaming&lang=en&timestamp=1772905696&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "We ran right into this guy… #armareforger #arma #conflict #gaming")](https://www.youtube.com/shorts/IUXclVHekm0)
-[![Gunner POV is pretty dope in Reforger #arma #fps #conflict](https://ytcards.demolab.com/?id=T94EbTQzHX4&title=Gunner+POV+is+pretty+dope+in+Reforger+%23arma+%23fps+%23conflict&lang=en&timestamp=1772752597&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Gunner POV is pretty dope in Reforger #arma #fps #conflict")](https://www.youtube.com/shorts/T94EbTQzHX4)
-[![Fireworks experiment nearly claims a man #arma #conflict #fps](https://ytcards.demolab.com/?id=q7i6y1paLu8&title=Fireworks+experiment+nearly+claims+a+man+%23arma+%23conflict+%23fps&lang=en&timestamp=1772682164&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Fireworks experiment nearly claims a man #arma #conflict #fps")](https://www.youtube.com/shorts/q7i6y1paLu8)
-[![ngl almost ran out there 😂 #arma #gaming](https://ytcards.demolab.com/?id=NAnA6Kxyv3o&title=ngl+almost+ran+out+there+%F0%9F%98%82+%23arma+%23gaming&lang=en&timestamp=1772678989&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "ngl almost ran out there 😂 #arma #gaming")](https://www.youtube.com/shorts/NAnA6Kxyv3o)
-[![He actually did see it coming #cannon](https://ytcards.demolab.com/?id=BONauiCvkvg&title=He+actually+did+see+it+coming+%23cannon&lang=en&timestamp=1772596178&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "He actually did see it coming #cannon")](https://www.youtube.com/shorts/BONauiCvkvg)
+
 <!-- END YOUTUBE-CARDS -->
 
 <br></br>
