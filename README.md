@@ -9,13 +9,6 @@
   </a>
 ->
 
-<!-- LOGO -------------------------------------------------------------------->
-<div align="center">
-  <a href="https://seperet.com">
-    <img width="250" src=https://github.com/denv3rr/denv3rr/blob/main/IMG_4225.gif/>    
-  </a>
-</div>
-
 <!-- TROPHIES ---------------------------------------------------------------->
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=denv3rr&column=-1&no-frame=true&no-bg=true&theme=darkhub&title=-Stars,-PullRequest,-Issues,-Reviews)](https://github.com/ryo-ma/github-profile-trophy)
@@ -36,41 +29,55 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=denv3rr&hide_border=true&theme=transparent&layout=donut&langs_count=6)](https://github.com/denv3rr/github-readme-stats)
 -->
 
-<br></br>
 
 <!-- PINNED REPOS ------------------------------------------------------------>
 
 <p align="center">
 
   <a href="https://denv3rr.github.io/lobby/">
-    <img src="https://opengraph.githubassets.com/1/denv3rr/lobby" width="300"/>
+    <img width= "300" src="https://opengraph.githubassets.com/1/denv3rr/lobby"/>
   </a>
-
+  
+<!--
   <br>
 
-  <a href="https://github.com/denv3rr/denv3rr.github.io">
-    <img src="https://opengraph.githubassets.com/1/denv3rr/denv3rr.github.io" width="300"/>
-  </a>
-  
-  <a href="https://github.com/denv3rr/clear">
-    <img src="https://opengraph.githubassets.com/1/denv3rr/clear" width="300"/>
-  </a>
-  
-  <a href="https://github.com/denv3rr/AirTrace">
-    <img src="https://opengraph.githubassets.com/1/denv3rr/AirTrace" width="300"/>
-  </a>
-  
-  <a href="https://github.com/denv3rr/network-explorer">
-    <img src="https://opengraph.githubassets.com/1/denv3rr/network-explorer" width="300"/>
-  </a>
+    <a href="https://github.com/denv3rr/denv3rr.github.io">
+      <img src="https://opengraph.githubassets.com/1/denv3rr/denv3rr.github.io" width="300"/>
+    </a>
+    
+    <a href="https://github.com/denv3rr/clear">
+      <img src="https://opengraph.githubassets.com/1/denv3rr/clear" width="300"/>
+    </a>
+    
+    <a href="https://github.com/denv3rr/AirTrace">
+      <img src="https://opengraph.githubassets.com/1/denv3rr/AirTrace" width="300"/>
+    </a>
+    
+    <a href="https://github.com/denv3rr/network-explorer">
+      <img src="https://opengraph.githubassets.com/1/denv3rr/network-explorer" width="300"/>
+    </a>
+-->
+
 </p>
 
----
+<br>
+
+<!-- LOGO -------------------------------------------------------------------->
+<div align="center">
+  <a href="https://seperet.com">
+    <img width="100" src=https://github.com/denv3rr/denv3rr/blob/main/IMG_4225.gif/>    
+  </a>
+</div>
+
+<br>
 
 <!-- YOUTUBE ----------------------------------------------------------------->
 <div align="center">
+
+<!--
 <a href="https://youtube.com/@seperet">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzdqdmlpbzIzdDM1Zm8wNnR5MW8wODVwY29tMnBjd2ltb292eXRkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dyLmcrc0wk4dUCxp0K/giphy.webp" width="200" height="200">
+-->
 
   <div align="center">
     
@@ -96,11 +103,16 @@
 [![Kinda took a while for his guys to look that way for some reason #armareforger #gaming #conflict](https://ytcards.demolab.com/?id=GAb_C6gSroM&title=Kinda+took+a+while+for+his+guys+to+look+that+way+for+some+reason+%23armareforger+%23gaming+%23conflict&lang=en&timestamp=1773080619&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Kinda took a while for his guys to look that way for some reason #armareforger #gaming #conflict")](https://www.youtube.com/shorts/GAb_C6gSroM)
 <!-- END YOUTUBE-CARDS -->
 
+<!--
+
 <br></br>
   
 </div>
 
+-->
+
 <!-- FOOTER ------------------------------------------------------------------>
+<!--
 <img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 <div align="center">
   <a href="https://seperet.com/contact">
@@ -122,3 +134,5 @@
 
   </a>
 </div>
+
+-->
