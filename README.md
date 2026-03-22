@@ -95,12 +95,7 @@
 </a>
   
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Fellas what would you have done #armareforger #conflict #arma #funnymoments #fails](https://ytcards.demolab.com/?id=RXuZi3xc8mU&title=Fellas+what+would+you+have+done+%23armareforger+%23conflict+%23arma+%23funnymoments+%23fails&lang=en&timestamp=1774130910&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Fellas what would you have done #armareforger #conflict #arma #funnymoments #fails")](https://www.youtube.com/shorts/RXuZi3xc8mU)
-[![jumpscare #conflict #armareforger #arma #m4](https://ytcards.demolab.com/?id=29i132bodZ0&title=jumpscare+%23conflict+%23armareforger+%23arma+%23m4&lang=en&timestamp=1774071598&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "jumpscare #conflict #armareforger #arma #m4")](https://www.youtube.com/shorts/29i132bodZ0)
-[![Sleep paralysis demon raid #readyornot #raid](https://ytcards.demolab.com/?id=lmKTvfFGHoY&title=Sleep+paralysis+demon+raid+%23readyornot+%23raid&lang=en&timestamp=1773978636&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Sleep paralysis demon raid #readyornot #raid")](https://www.youtube.com/shorts/lmKTvfFGHoY)
-[![“Hands up!” 😎 lmao #readyornot #hostage #rescue #bank #hostagecrisis](https://ytcards.demolab.com/?id=lPv-fT7UTtg&title=%E2%80%9CHands+up%21%E2%80%9D+%F0%9F%98%8E+lmao+%23readyornot+%23hostage+%23rescue+%23bank+%23hostagecrisis&lang=en&timestamp=1773978077&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "“Hands up!” 😎 lmao #readyornot #hostage #rescue #bank #hostagecrisis")](https://www.youtube.com/shorts/lPv-fT7UTtg)
-[![Vacation does not go according to plan #resort #rude #armareforger #disappointed](https://ytcards.demolab.com/?id=dbjKrwJFpEA&title=Vacation+does+not+go+according+to+plan+%23resort+%23rude+%23armareforger+%23disappointed&lang=en&timestamp=1773369348&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Vacation does not go according to plan #resort #rude #armareforger #disappointed")](https://www.youtube.com/shorts/dbjKrwJFpEA)
-[![Virtual Trucking Gets Serious](https://ytcards.demolab.com/?id=gDrTdIv_x8U&title=Virtual+Trucking+Gets+Serious&lang=en&timestamp=1773360054&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Virtual Trucking Gets Serious")](https://www.youtube.com/watch?v=gDrTdIv_x8U)
+
 <!-- END YOUTUBE-CARDS -->
 
 <!--
