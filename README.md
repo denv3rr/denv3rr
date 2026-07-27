@@ -20,8 +20,8 @@
 <div align="center">
 <div align="center">
   <a>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=denv3rr&theme=transparent"/>
-    <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=denv3rr&theme=transparent&hide_border=true&properties=background&border=white"/> -->
+    <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=denv3rr&theme=transparent"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=denv3rr&theme=transparent&hide_border=true&properties=background&border=white"/> -->
   </a>
 </div>
 
