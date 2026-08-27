@@ -14,23 +14,21 @@ STATUS
 CURRENT STUDY
   > Computer Organization & Machine Language
 
-LANGUAGES
+LANGUAGES, TOOLS, SYSTEMS
   > C++
   > Go
   > Python
-  > JavaScript / TypeScript
+  > JavaScript
   > SQL
 
-TOOLS & SYSTEMS
   > Git / GitHub
   > PostgreSQL / PostGIS
   > Docker
   > Node.js
   > CMake
   > Windows / PowerShell
-  > Linux development environments
 
-PINNED WORK
+PINNED
   > Spatial
       Evidence-governed operational software for turning observations,
       evidence, decisions, actions, and verification into traceable workflows.
