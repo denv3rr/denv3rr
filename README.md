@@ -1,15 +1,31 @@
 ```
-denver@github:~$ whoami
+               _-o#&&*''''?d:>b\_                denver@github
+          _o/"`''  '',, dMF9MMMMMHo_             ---------
+       .o&#'        `"MbHMMMMMMMMMMMHo.          Name: Denver Clark
+     .o"" '         vodM*$&&HMMMMMMMMMM?.        Current: - Computer Science Student | Software Developer
+    ,'              $M&ood,~'`(&##MMMMMMH\                - Founder @ seperet.com
+   /               ,MMMMMMM#b?#bobMMMMHMMML               - Building and researching things related to systems, infrastructure,
+  &              ?MMMMMMMMMMMMMMMMM7MMM$R*Hk                simulation, security, industrial technology, and general data-rich
+ ?$.            :MMMMMMMMMMMMMMMMMMM/HMMM|`*L               applications.
+|               |MMMMMMMMMMMMMMMMMMMMbMH'   T,
+$H#:            `*MMMMMMMMMMMMMMMMMMMMb#}'  `?
+]MMH#             ""*""""*#MMMMMMMMMMMMM'    -
+MMMMMb_                   |MMMMMMMMMMMP'     :
+HMMMMMMMHo                 `MMMMMMMMMT       .
+?MMMMMMMMP                  9MMMMMMMM}       -
+-?MMMMMMM                  |MMMMMMMMM?,d-    '
+ :|MMMMMM-                 `MMMMMMMT .M|.   :
+  .9MMM[                    &MMMMM*' `'    .
+   :9MMk                    `MMM#"        -
+     &M}                     `          .-
+      `&.                             .
+        `~,   .                     ./
+            . _                  .-
+              '`--._,dd###pp=""'
 
-Denver Clark
-Computer Science Student · Software Developer
-Founder @ seperet.com
+Loading personal and system profiles took 1ms.
 
 denver@github:~$ cat ./profile
-
-STATUS
-  > Building things related to systems, infrastructure, simulation,
-    security, industrial technology, and general data-rich applications.
 
 CURRENT STUDY
   > Computer Organization & Machine Language
