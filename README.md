@@ -8,8 +8,8 @@ Founder @ seperet.com
 denver@github:~$ cat ./profile
 
 STATUS
-  Building things related to systems, infrastructure, simulation,
-  security, industrial technology, and general data-rich applications.
+  > Building things related to systems, infrastructure, simulation,
+    security, industrial technology, and general data-rich applications.
 
 CURRENT STUDY
   > Computer Organization & Machine Language
@@ -46,15 +46,15 @@ PINNED
       and game-engine fundamentals.
 
 INTERESTS
-  systems engineering · backend infrastructure · distributed systems
-  security · defense technology · industrial software · simulation
-  geospatial systems · aerospace · data infrastructure
+  > systems engineering · backend infrastructure · distributed systems
+    security · defense technology · industrial software · simulation
+    geospatial systems · aerospace · data infrastructure
 
 denver@github:~$ ./contact --links
 
-  Web            seperet.com
-  GitHub         github.com/denv3rr
-  Gaming         youtube.com/@seperet
+  > Web            seperet.com
+  > GitHub         github.com/denv3rr
+  > Gaming         youtube.com/@seperet
 
 ```
 
