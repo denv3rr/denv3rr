@@ -1,12 +1,21 @@
 ```
-               _-o#&&*''''?d:>b\_                denver@github
-          _o/"`''  '',, dMF9MMMMMHo_             ---------
-       .o&#'        `"MbHMMMMMMMMMMMHo.          Name: Denver Clark
-     .o"" '         vodM*$&&HMMMMMMMMMM?.        Current: - Computer Science Student | Software Developer
-    ,'              $M&ood,~'`(&##MMMMMMH\                - Founder @ seperet.com
-   /               ,MMMMMMM#b?#bobMMMMHMMML               - Building and researching things related to systems, infrastructure,
-  &              ?MMMMMMMMMMMMMMMMM7MMM$R*Hk                simulation, security, industrial technology, and general data-rich
- ?$.            :MMMMMMMMMMMMMMMMMMM/HMMM|`*L               applications.
+denver@github
+---------
+Name: Denver Clark
+Current: - Computer Science Student | Software Developer
+         - Founder @ seperet.com
+         - Building and researching things related to systems, infrastructure,
+           simulation, security, industrial technology, and general data-rich
+           applications.
+
+               _-o#&&*''''?d:>b\_ 
+          _o/"`''  '',, dMF9MMMMMHo_  
+       .o&#'        `"MbHMMMMMMMMMMMHo.
+     .o"" '         vodM*$&&HMMMMMMMMMM?.
+    ,'              $M&ood,~'`(&##MMMMMMH\
+   /               ,MMMMMMM#b?#bobMMMMHMMML
+  &              ?MMMMMMMMMMMMMMMMM7MMM$R*Hk
+ ?$.            :MMMMMMMMMMMMMMMMMMM/HMMM|`*L
 |               |MMMMMMMMMMMMMMMMMMMMbMH'   T,
 $H#:            `*MMMMMMMMMMMMMMMMMMMMb#}'  `?
 ]MMH#             ""*""""*#MMMMMMMMMMMMM'    -
@@ -22,8 +31,6 @@ HMMMMMMMHo                 `MMMMMMMMMT       .
         `~,   .                     ./
             . _                  .-
               '`--._,dd###pp=""'
-
-Loading personal and system profiles took 1ms.
 
 denver@github:~$ cat ./profile
 
