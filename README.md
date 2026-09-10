@@ -5,32 +5,8 @@ Name: Denver Clark
 Current: - Computer Science Student | Software Developer
          - Founder @ seperet.com
          - Building and researching things related to systems, infrastructure,
-           simulation, security, industrial technology, and general data-rich
+           simulation, security, industrial technology, finance, and general data-rich
            applications.
-
-               _-o#&&*''''?d:>b\_ 
-          _o/"`''  '',, dMF9MMMMMHo_  
-       .o&#'        `"MbHMMMMMMMMMMMHo.
-     .o"" '         vodM*$&&HMMMMMMMMMM?.
-    ,'              $M&ood,~'`(&##MMMMMMH\
-   /               ,MMMMMMM#b?#bobMMMMHMMML
-  &              ?MMMMMMMMMMMMMMMMM7MMM$R*Hk
- ?$.            :MMMMMMMMMMMMMMMMMMM/HMMM|`*L
-|               |MMMMMMMMMMMMMMMMMMMMbMH'   T,
-$H#:            `*MMMMMMMMMMMMMMMMMMMMb#}'  `?
-]MMH#             ""*""""*#MMMMMMMMMMMMM'    -
-MMMMMb_                   |MMMMMMMMMMMP'     :
-HMMMMMMMHo                 `MMMMMMMMMT       .
-?MMMMMMMMP                  9MMMMMMMM}       -
--?MMMMMMM                  |MMMMMMMMM?,d-    '
- :|MMMMMM-                 `MMMMMMMT .M|.   :
-  .9MMM[                    &MMMMM*' `'    .
-   :9MMk                    `MMM#"        -
-     &M}                     `          .-
-      `&.                             .
-        `~,   .                     ./
-            . _                  .-
-              '`--._,dd###pp=""'
 
 denver@github:~$ cat ./profile
 
@@ -70,7 +46,7 @@ PINNED
 
 INTERESTS
   > systems engineering · backend infrastructure · distributed systems
-    security · defense technology · industrial software · simulation
+    security · finance · defense technology · industrial software · simulation
     geospatial systems · aerospace · data infrastructure
 
 denver@github:~$ ./contact --links
