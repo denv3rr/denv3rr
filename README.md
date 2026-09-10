@@ -47,7 +47,5 @@ youtube.com/@seperet
 <div align="center">
   <a href="https://seperet.com">
     <img width="100" src=https://github.com/denv3rr/denv3rr/blob/main/IMG_4225.gif/>
-    
-    seperet.com
   </a>
 </div>
