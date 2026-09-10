@@ -1,35 +1,25 @@
-### Building and researching things related to systems, infrastructure, simulation, security, industrial technology, finance, and general data-rich applications.
-
 ## Currently Studying
 
 Computer Organization & Machine Language
 
 ## Languages, Tools, Systems
 
-  > C++
-> 
-  > Go
-> 
-  > Python
-> 
-  > JavaScript
-> 
-  > SQL
+- C++
+- Go
+- Python
+- JavaScript
+- SQL
 
-  > Git / GitHub
-> 
-  > PostgreSQL / PostGIS
-> 
-  > Docker
-> 
-  > Node.js
-> 
-  > CMake
-> 
-  > Windows / PowerShell
-> 
+<br>
 
-## Interests
+- Git / GitHub
+- PostgreSQL / PostGIS
+- Docker
+- Node.js
+- CMake
+- Windows / PowerShell
+
+## Interests / Researching
 
 systems engineering · backend infrastructure · distributed systems
 security · finance · defense technology · industrial software · simulation
@@ -38,10 +28,10 @@ geospatial systems · aerospace · data infrastructure
 ## URLs
 
 ### Site
-seperet.com
+https://seperet.com
 
 ### Gaming Channel
-youtube.com/@seperet
+https://youtube.com/@seperet
 
 <!-- LOGO -------------------------------------------------------------------->
 <div align="center">
